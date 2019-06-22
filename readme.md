@@ -1,6 +1,6 @@
 # Prueba tecnica python
 
-Esta es la prueba tecnica de python para Innohub México
+Esta es la prueba técnica de python para Innohub México
 
 ### Requerimientos
   - Python 3.7
