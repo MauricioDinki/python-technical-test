@@ -14,5 +14,9 @@ Sin hacer uso de librerías o funciones nativas. Hacer un programa que tomando 
 python section_a_1.py
 ```
 
-  
+#### Sección B
+Realiza el esquema DB (Relacional o NoSql) para lo siguiente:
+  - Aplicación para gestionar una flota de vehículos, en donde una persona puede tener n vehículos asignados pero solo puede manejar uno. Cada asignación de vehículo tiene una fecha de expiración.
+
+**Vease archivo database_1.png**
 
