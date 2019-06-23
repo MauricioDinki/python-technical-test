@@ -20,3 +20,18 @@ Realiza el esquema DB (Relacional o NoSql) para lo siguiente:
 
 **Vease archivo database_1.png**
 
+#### Sección C
+
+Basados en las reglas del torneo de badminton.
+-  Escribe un programa para llevar el marcador.
+   - El programa debe permitir mostrar el resultado actual.
+   - Debe permitir añadir los puntos de cada jugador.
+   - Debe notificar cuando exista un set, Match o cambio de campo. o Debe notificar cuando un jugador gane.
+```
+python badminton.py
+```
+   - Escribe las pruebas unitarias necesarias.
+```
+python test_badminton.py
+```
+
