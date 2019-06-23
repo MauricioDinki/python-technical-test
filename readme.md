@@ -15,10 +15,27 @@ python vocals.py
 ```
 
 #### Sección B
+
 Realiza el esquema DB (Relacional o NoSql) para lo siguiente:
   - Aplicación para gestionar una flota de vehículos, en donde una persona puede tener n vehículos asignados pero solo puede manejar uno. Cada asignación de vehículo tiene una fecha de expiración.
 
 **Vease archivo database_1.png**
+
+Dado las siguientes entidades y atributos, normaliza como creas conveniente. 
+
+Inventario
+  - Número
+  - Fecha
+  - Usuario
+  
+Producto
+- Descripción
+- Cantidad
+- Precio
+
+Almacén
+
+**Vease archivo database_2.png**
 
 #### Sección C
 
