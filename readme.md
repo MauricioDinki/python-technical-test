@@ -11,7 +11,7 @@ Sin hacer uso de librerías o funciones nativas. Hacer un programa que tomando 
   - Reemplazar las vocales por la vocal consecutiva (a->e).
 
 ```
-python section_a_1.py
+python vocals.py
 ```
 
 #### Sección B
