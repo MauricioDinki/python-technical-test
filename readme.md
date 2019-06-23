@@ -35,3 +35,16 @@ python badminton.py
 python test_badminton.py
 ```
 
+Basado en la siguiente HU, define las pruebas a realizar
+  - Como Cliente, quiero suscribirme a un canal Premium por períodos flexibles de tiempo por medio del sitio web.
+
+***
+
+Para la historia de usuario dada, se proponen las siguientes pruebas:
+-	Verficar que el cliente se encuentra activo
+-	Verificar que el canal al que el cliente intenta subscribirse se encuentra activo
+-	Verificar que la fecha de fin del perido de subcscripción no es anterior a la fecha de inicio
+-	Verificar que el total a pagar corresponda con el precio del perido más impuestos
+-	Verificar que despues de pagar el usuario tiene acceso al canal
+
+
