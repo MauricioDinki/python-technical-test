@@ -1,0 +1,57 @@
+{
+  "data_a": {
+    "name": "data a",
+    "level": "one",
+    "priority": "highest",
+    "sub_data_ad": {
+      "name": "sub data ad",
+      "level": "one",
+      "priority": "highest"
+    },
+    "sub_data_aa": {
+      "name": "sub data aa",
+      "level": "one",
+      "priority": "lowest"
+    },
+    "sub_data_ac": {
+      "name": "sub data ac",
+      "level": "one",
+      "priority": "low"
+    },
+    "sub_data_ab": {
+      "name": "sub data ab",
+      "level": "two",
+      "priority": "high",
+      "sub_data_aba": {
+        "name": "sub data aba",
+        "level": "one",
+        "priority": "lowest"
+      },
+      "sub_data_abb": {
+        "name": "sub data abb",
+        "level": "one",
+        "priority": "highest"
+      }
+    }
+  },
+  "data_b": {
+    "name": "data b",
+    "level": "two",
+    "priority": "highest",
+    "sub_data_ba": {
+      "name": "sub data ba",
+      "level": "one",
+      "priority": "highest"
+    },
+    "sub_data_bc": {
+      "name": "sub data bc",
+      "level": "one",
+      "priority": "low"
+    },
+    "sub_data_bb": {
+      "name": "sub data bb",
+      "level": "one",
+      "priority": "lowest"
+    }
+  }
+}
