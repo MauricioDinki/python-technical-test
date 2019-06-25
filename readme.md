@@ -14,6 +14,15 @@ Sin hacer uso de librerías o funciones nativas. Hacer un programa que tomando 
 python vocals.py
 ```
 
+Sin hacer uso de librerías o funciones nativas. Escribe un programa el cual tomando un conjunto de datos con sus atributos (Figura a):
+  - Ordenar los datos de acuerdo al nivel de prioridad (padre e hijo).
+  - Utilizar un método llamado show() que permita visualizar los datos ordenados.
+  - Al ingresar un nuevo dato (o conjunto de datos) realizar el ajuste necesario para colocar el dato en la posición adecuada.
+
+```
+python order.py
+```
+
 #### Sección B
 
 Realiza el esquema DB (Relacional o NoSql) para lo siguiente:

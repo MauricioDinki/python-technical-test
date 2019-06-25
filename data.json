@@ -30,7 +30,17 @@
       "sub_data_abb": {
         "name": "sub data abb",
         "level": "one",
-        "priority": "highest"
+        "priority": "highest",
+        "sub_data_abba": {
+          "name": "sub data abba",
+          "level": "one",
+          "priority": "lowest"
+        },
+        "sub_data_abbb": {
+          "name": "sub data abbb",
+          "level": "one",
+          "priority": "low"
+        }
       }
     }
   },
